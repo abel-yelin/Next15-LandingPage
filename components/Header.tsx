@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <nav className="navbar fixed-top">
+    <nav className="navbar">
       <div className="container sm:px-4 lg:px-8 flex flex-wrap items-center justify-between lg:flex-nowrap">
         <a
           className="text-gray-800 font-semibold text-3xl leading-4 no-underline page-scroll"
