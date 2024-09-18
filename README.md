@@ -2,7 +2,7 @@
 
 # Langing Page using Next.js@15
 
-![Modern Portfolio using Next.js and Framer Motion](/.github/images/img_main.png "Modern Portfolio using Next.js and Framer Motion")
+![FireShot Capture 018 - Create Next App - localhost](https://github.com/user-attachments/assets/0e85a7f8-94f9-4216-a5e0-62b093045c5c)
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/seyitbugraerden "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/sanidhyy/modern-portfolio?icon=github&color=black&scale=1.01)](https://github.com/seyitbugraerden/Next15-LandingPage/blob/main/LICENSE "GitHub license")
@@ -29,12 +29,9 @@
 - [Stats](#wrench-stats)
 - [Contribute](#raised_hands-contribute)
 - [Acknowledgements](#gem-acknowledgements)
-- [Buy Me a Coffee](#coffee-buy-me-a-coffee)
 - [Follow Me](#rocket-follow-me)
 - [Learn More](#books-learn-more)
 - [Deploy on Vercel](#page_with_curl-deploy-on-vercel)
-- [Give A Star](#star-give-a-star)
-- [Star History](#star2-star-history)
 - [Give A Star](#star-give-a-star)
 
 </details>
@@ -90,7 +87,7 @@ Next15-LandingPage/
 
 ## :wrench: Stats
 
-[![Stats for Modern Portfolio](/.github/images/stats.svg "Stats for Modern Portfolio")](https://pagespeed-insights-svg.glitch.me/?url=https://awersome-portfolio.netlify.app/ "Stats for Modern Portfolio")
+![Screenshot_1](https://github.com/user-attachments/assets/af7d7dea-b3f2-4cda-aa03-b656f8c10937)
 
 ## :raised_hands: Contribute
 
@@ -102,35 +99,30 @@ Useful resources and dependencies that are used in Modern Portfolio.
 
 ### Production Dependencies
 
-- [@next/font](https://www.npmjs.com/package/@next/font): ^13.4.4
-- [framer-motion](https://www.npmjs.com/package/framer-motion): ^10.12.16
-- [next](https://www.npmjs.com/package/next): 13.4.3
-- [react](https://www.npmjs.com/package/react): 18.2.0
-- [react-countup](https://www.npmjs.com/package/react-countup): ^6.4.2
-- [react-dom](https://www.npmjs.com/package/react-dom): 18.2.0
-- [react-icons](https://www.npmjs.com/package/react-icons): ^4.8.0
-- [react-tsparticles](https://www.npmjs.com/package/react-tsparticles): ^2.9.3
-- [swiper](https://www.npmjs.com/package/swiper): ^9.4.0
-- [tailwind-scrollbar](https://www.npmjs.com/package/tailwind-scrollbar): ^3.0.4
-- [tsparticles](https://www.npmjs.com/package/tsparticles): ^2.9.3
+- [@next/font](https://www.npmjs.com/package/@next/font): ^15.0
+- [next](https://www.npmjs.com/package/next): 15.0
+- [react](https://www.npmjs.com/package/react): 19.0
+- [react-countup](https://www.npmjs.com/package/react-countup): ^6.5.3
+- [react-dom](https://www.npmjs.com/package/react-dom): 19.0
+- [lucide-react](https://www.npmjs.com/package/lucide-react): ^0.441.0
 
 ### Development Dependencies
 
-- [autoprefixer](https://www.npmjs.com/package/autoprefixer): ^10.4.14
-- [eslint](https://www.npmjs.com/package/eslint): 8.41.0
-- [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 13.4.3
-- [postcss](https://www.npmjs.com/package/postcss): ^8.4.23
-- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.3.2
+- [@types/node](https://www.typescriptlang.org/): ^20
+- [@types/react](https://www.typescriptlang.org/): ^18
+- [@types/react-dom](https://www.typescriptlang.org/): ^18
+- [eslint](https://www.npmjs.com/package/eslint): ^8
+- [eslint-config-next](https://www.npmjs.com/package/eslint-config-next): 15.0
+- [postcss](https://www.npmjs.com/package/postcss): ^8
+- [tailwindcss](https://www.npmjs.com/package/tailwindcss): ^3.4.1
+- [typescript](https://www.typescriptlang.org/): ^5
 
-## :coffee: Buy Me a Coffee
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fmodern-portfolio "Tweet")
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw "Subscribe my Channel")
+[![GitHub followers](https://img.shields.io/github/followers/seyitbugraerden?style=social&label=Follow&maxAge=2592000)](https://github.com/seyitbugraerden "Follow Me")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https://x.com/bugrakisisi)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fmodern-portfolio "Tweet")
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SfenksMotovlog "Subscribe my Channel")
 
 ## :books: Learn More
 
@@ -151,15 +143,3 @@ Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment)
 
 You can also give this repository a star to show more people and they can use this repository.
 
-## :star2: Star History
-
-<a href="https://star-history.com/#sanidhyy/modern-portfolio&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/modern-portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/modern-portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/modern-portfolio&type=Timeline" />
-</picture>
-</a>
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
