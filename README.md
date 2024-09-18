@@ -73,17 +73,20 @@ Next15-LandingPage/
 
 ## :camera: Screenshots:
 
-![Modern UI/UX](/.github/images/img1.png "Modern UI/UX")
+![Hero Section](https://github.com/user-attachments/assets/2853cf8b-1051-4cf4-8ff9-32eb720896b4)
 
-![Services](/.github/images/img2.png "Services")
+![About Section](https://github.com/user-attachments/assets/0de8ec94-8968-4f7e-9158-ea1a3f517ad4)
 
-![Showcase Projects](/.github/images/img3.png "Showcase Projects")
+![Features Section](https://github.com/user-attachments/assets/729e0306-bf5d-4472-b9d4-3a577fbca04a)
 
-![Contact Form](/.github/images/img4.png "Contact Form")
+![Pricing Section](https://github.com/user-attachments/assets/98125a2e-6c3d-4283-83cf-0f2a403e99f2)
+
+![Footer Section](https://github.com/user-attachments/assets/01367f89-e297-4e6b-b8fb-1bcfb5b198d2)
+
 
 ## :gear: Tech Stack
 
-[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.com/)
+[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![JavaScript](https://skillicons.dev/icons?i=ts "Typescript")](https://developer.mozilla.org/en-US/docs/Web/Typescript "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.com/)
 
 ## :wrench: Stats
 
