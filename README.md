@@ -4,7 +4,7 @@
 
 ![Modern Portfolio using Next.js and Framer Motion](/.github/images/img_main.png "Modern Portfolio using Next.js and Framer Motion")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/seyitbugraerden "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/sanidhyy/modern-portfolio?icon=github&color=black&scale=1.01)](https://github.com/seyitbugraerden/Next15-LandingPage/blob/main/LICENSE "GitHub license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/seyitbugraerden/Next15-LandingPage/commits/main "Maintenance")
 [![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/modern-portfolio?icon=github&color=black&scale=1.01)](https://github.com/seyitbugraerden/Next15-LandingPage/branches "GitHub branches")
@@ -44,19 +44,14 @@
 Here is the folder structure of this app.
 
 ```bash
-modern-portfolio/
+Next15-LandingPage/
   |- components/
-  |- pages/
-    |-- about/
-    |-- contact/
-    |-- services/
-    |-- testimonials/
-    |-- work/
-    |-- _app.jsx
-    |-- index.jsx
+  |- app/
+    |-- fonts/
+    |-- global.css
+    |-- app.tsx
+    |-- layout.tsx
   |- public/
-  |- styles/
-    |-- globals.css
   |- .eslintrc.json
   |- .gitignore
   |- next.config.js
@@ -64,7 +59,7 @@ modern-portfolio/
   |- package.json
   |- postcss.config.js
   |- tailwind.config.js
-  |- variants.js
+  |- tsconfig.js
 ```
 
 <br />
@@ -91,7 +86,7 @@ modern-portfolio/
 
 ## :gear: Tech Stack
 
-[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://netlify.app/ "Netlify")
+[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript "JavaScript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.com/)
 
 ## :wrench: Stats
 
