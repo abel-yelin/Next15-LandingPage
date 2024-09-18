@@ -1,3 +1,4 @@
+import Counter from "@/components/Counter";
 import Details from "@/components/Details";
 import Features from "@/components/Features";
 import Hero from "@/components/Hero";
@@ -11,6 +12,7 @@ const Home = () => {
       <Lyric />
       <Features />
       <Details />
+      <Counter />
     </>
   );
 };
