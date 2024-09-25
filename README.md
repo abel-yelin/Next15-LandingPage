@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Langing Page using Next.js@15
+# Landing Page using Next.js@15
 
 ![FireShot Capture 018 - Create Next App - localhost](https://github.com/user-attachments/assets/0e85a7f8-94f9-4216-a5e0-62b093045c5c)
 
