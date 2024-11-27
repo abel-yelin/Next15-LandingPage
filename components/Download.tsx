@@ -9,14 +9,13 @@ const Download = () => {
         </div>
         <div className="lg:mt-24 xl:mt-44 xl:ml-12">
           <p className="mb-9 text-gray-800 text-3xl leading-10">
-            Team management mobile applications don’t get much better than Pavo.
-            Download it today
+            下载 Spotify Premium APK，享受无广告的音乐体验。
           </p>
-          <a className="btn-solid-lg" href="#your-link">
-            <i className="fab fa-apple"></i>Download
+          <a className="btn-solid-lg" href="链接到你的APK下载">
+            <i className="fab fa-apple"></i>下载
           </a>
-          <a className="btn-solid-lg secondary" href="#your-link">
-            <i className="fab fa-google-play"></i>Download
+          <a className="btn-solid-lg secondary" href="链接到你的APK下载">
+            <i className="fab fa-google-play"></i>下载
           </a>
         </div>
       </div>
